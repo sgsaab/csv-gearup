@@ -16,7 +16,7 @@ console.log('Mutated:', mutated);
 
 // Generics Example
 // This function doesn't care what the type of the list is!
-function getFirstElement<T>(list: T[]): T | undefined {
+export function getFirstElement<T>(list: T[]): T | undefined {
     return list[0];
 }
 
