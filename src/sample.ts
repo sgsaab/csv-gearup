@@ -1,4 +1,5 @@
-// Strategy Pattern Example
+// Build this project with npm run build, then run it with 
+// node dist/sample.js
 let numbers = [1, 5, 10, 15, 20];
 
 let doubled = numbers.map(num => num * 2);
@@ -18,3 +19,6 @@ console.log('Mutated:', mutated);
 function getFirstElement<T>(list: T[]): T | undefined {
     return list[0];
 }
+
+console.log(getFirstElement([1, 2, 3])); // number
+console.log(getFirstElement(['a', 'b', 'c'])); // string
