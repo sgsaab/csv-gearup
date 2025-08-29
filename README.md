@@ -1,11 +1,10 @@
-# CSV Gearup
+# Getting Started Gearup
 
-A TypeScript project demonstrating the use of generics, array operations (`map`, `filter`), and testing with Jest.
+TypeScript sample code with examples of the strategy pattern and generics, as well as Jest tests.
 
 ## Prerequisites
 
-- Node.js (v16 or later)
-- npm (v8 or later)
+- See the course setup guide
 
 ## Setup
 
