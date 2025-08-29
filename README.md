@@ -4,7 +4,7 @@ TypeScript sample code with examples of the strategy pattern and generics, as we
 
 ## Prerequisites
 
-- See the course setup guide
+- Make sure you have VsCode installed!
 
 ## Setup
 
