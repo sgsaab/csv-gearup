@@ -12,7 +12,7 @@ TypeScript sample code with examples of the strategy pattern and generics, as we
 
    ```bash
    git clone <repository-url>
-   cd csv-gearup
+   cd getting-started-gearup
    ```
 
 2. Install dependencies:
