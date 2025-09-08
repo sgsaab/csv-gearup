@@ -1,7 +1,7 @@
 {
   "name": "csv-gearup",
   "version": "1.0.0",
-  "type": "module",
+  "type": "commonjs",
   "main": "dist/sample.js",
   "scripts": {
     "build": "tsc",
